@@ -1,3 +1,5 @@
+# Ref: https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/hands.md
+
 import mediapipe as mp
 import cv2
 

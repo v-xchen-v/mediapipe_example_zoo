@@ -1,3 +1,5 @@
+# Ref: https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/pose.md
+
 import cv2
 import mediapipe as mp
 import numpy as np

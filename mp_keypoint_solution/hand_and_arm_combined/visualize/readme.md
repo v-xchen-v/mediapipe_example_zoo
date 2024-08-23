@@ -1,0 +1,4 @@
+- Visualize Landmarks in 2D image
+    - quickly check keypoints estimation
+    - different color of keypoints
+    - use line connection 
